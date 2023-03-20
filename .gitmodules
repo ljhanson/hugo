@@ -1,0 +1,3 @@
+[submodule "content/pages"]
+	path = content/pages
+	url = https://github.com/ljhanson/content.git
