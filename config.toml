@@ -1,25 +1,23 @@
 baseURL = 'http://www.home.openauthority.net/'
+theme = 'm10c'
 languageCode = 'en-us'
 title = 'Openauthority.net'
-author = 'L.J. Hanson'
-description = "I'm a US-based technologist and these are primarily a collection of notes for myself that others may find useful."
-# avatar =
-# menu_item_separator =
-# favicon =
-[[params.social]]
-  icon = "github"
-  name = "Github"
-  url = "https://github.com/ljhanson"
-[[params.social]]
-  icon = "twitter"
-  name = "Twitter"
-  url = "https://twitter.com/leonardjhanson"
-[[parmas.social]]
-  icon = "mastadon"
-  name = "Mastadon"
-  url = "https://hachyderm.io/@ljhanson"
-[[params.social]]
-  icon = "linkedin"
-  name = "linkedin"
-  url = "https://linkedin.com/in/ljhanson"
- 
+[params]
+  author = 'L.J. Hanson'
+  description = "I'm a US-based technologist and these are primarily a collection of notes for myself that others may find useful."
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/ljhanson"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/leonardjhanson"
+  [[parmas.social]]
+    icon = "share-2"
+    name = "Mastadon"
+    url = "https://hachyderm.io/@ljhanson"
+  [[params.social]]
+    icon = "linkedin"
+    name = "linkedin"
+    url = "https://linkedin.com/in/ljhanson"
