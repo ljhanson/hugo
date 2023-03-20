@@ -1,3 +1,6 @@
 [submodule "content/pages"]
 	path = content/pages
-	url = https://github.com/ljhanson/content.git
+  url = https://github.com/ljhanson/content.git
+[submodule "themes/m10c"]
+  path = themes/m10c
+  url = https://github.com/vaga/hugo-theme-m10c.git themes/m10c
