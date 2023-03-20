@@ -1,3 +1,26 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.home.openauthority.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Openauthority.net'
+author = 'L.J. Hanson'
+description = "I/'m a US-based technologist and these are primarily a collection
+of notes for myself that others may find useful."
+# avatar =
+# menu_item_separator =
+# favicon =
+[[params.social]]
+  icon = "github"
+  name = "Github"
+  url = "https://github.com/ljhanson"
+[[params.social]]
+  icon = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/leonardjhanson"
+[[parmas.social]]
+  icon = "mastadon"
+  name = "Mastadon"
+  url = "https://hachyderm.io/@ljhanson"
+[[params.social]]
+  icon = "linkedin"
+  name = "linkedin"
+  url = "https://linkedin.com/in/ljhanson"
+ 
